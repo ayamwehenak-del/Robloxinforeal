@@ -1,0 +1,71 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5000/
+Subject: Roblox InfoZone
+Date: Fri, 26 Dec 2025 13:38:24 +0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--zK3PapP2ydJNclbcoB30c2I4KusYwNAx4pvhzyo7eC----"
+
+
+------MultipartBoundary--zK3PapP2ydJNclbcoB30c2I4KusYwNAx4pvhzyo7eC----
+Content-Type: text/html
+Content-ID: <frame-688482F12AAE00525FC1544E69421366@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://127.0.0.1:5000/
+
+<!DOCTYPE html><html lang="id"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-369cf215-049d-4e57-92b9-72b77206d13a@mhtml.blink" />
+        
+        <title>Roblox InfoZone</title>
+        
+    </head>
+    <body>
+        <h1>🔥 Roblox InfoZone 🔥</h1>
+        <h3>Berita &amp; Event Roblox</h3>
+
+        <div class="card">
+            <img src="https://tr.rbxcdn.com/35e04b7e6b3b2a0a0e3c15ae8d07a987/420/420/Image/Png">
+            <h2>🎄 Event Natal 2025 di Roblox!</h2>
+            <p>Hadiah baru dan update keren siap menunggu pemain.</p>
+            <a class="button" href="https://www.roblox.com/home" target="_blank">Baca Selengkapnya</a>
+        </div>
+
+        <div class="card">
+            <img src="https://tr.rbxcdn.com/0bffd2c7b1b19f3a72d4b5673bdf2b57/420/420/Image/Png">
+            <h2>💎 Kode Promo Roblox</h2>
+            <p>Gunakan kode: ROBLOX2025HOLIDAY untuk klaim topi gratis.</p>
+            <a class="button" href="https://www.roblox.com/promocodes" target="_blank">Buka Halaman Kode</a>
+        </div>
+
+        <div class="card">
+            <img src="https://tr.rbxcdn.com/272aa4272d833cf650543da152109de6/420/420/Image/Png">
+            <h2>🔥 Tips Developer Game Roblox</h2>
+            <p>Pelajari cara bikin game populer di Roblox Studio cuma dalam 1 jam!</p>
+            <a class="button" href="https://create.roblox.com/" target="_blank">Lihat Tips</a>
+        </div>
+    
+    
+    </body></html>
+------MultipartBoundary--zK3PapP2ydJNclbcoB30c2I4KusYwNAx4pvhzyo7eC----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-369cf215-049d-4e57-92b9-72b77206d13a@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: Arial; background-color: rgb(15, 15, 15); color: white; text-align: center; margin: 0px; padding: 0px; }
+
+h1 { background-color: rgb(255, 68, 68); padding: 15px; margin: 0px; font-size: 28px; }
+
+.card { background-color: rgb(26, 26, 26); border-radius: 12px; padding: 15px; margin: 20px auto; width: 90%; max-width: 400px; box-shadow: rgb(255, 68, 68) 0px 0px 10px; }
+
+img { width: 100%; border-radius: 10px; }
+
+h2 { color: rgb(255, 102, 102); }
+
+p { font-size: 14px; color: rgb(221, 221, 221); }
+
+a.button { display: inline-block; background-color: rgb(255, 68, 68); padding: 10px 15px; color: white; border-radius: 8px; text-decoration: none; margin-top: 8px; font-size: 14px; }
+
+a.button:hover { background-color: rgb(255, 119, 119); }
+------MultipartBoundary--zK3PapP2ydJNclbcoB30c2I4KusYwNAx4pvhzyo7eC------
